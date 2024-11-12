@@ -2,6 +2,8 @@ import pygame
 
 
 def main():
+    #Checking push
+    print("hi")
     try:
         pygame.init()
         # You can draw the mole with this snippet:
